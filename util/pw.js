@@ -1,4 +1,4 @@
-const status = "Do Not Disturb";
+const status = "AUTOMATIC";
 const botName = "🎸 MUSIC BOT";
 const rtxText = "RTX";
 const version = "Latest@ v3.6"; 
